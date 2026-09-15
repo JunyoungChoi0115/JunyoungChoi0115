@@ -1,8 +1,9 @@
 <h1 align="center">안녕하세요! 👋 大家好！</h1>
+<h3 align="center">Junyoung Choi (최준영 · 崔埈暎)</h3>
 
 <p align="center">
-  <b>최준영 (崔埈暎)</b>의 GitHub 프로필입니다.<br>
-  这里是 <b>崔埈暎（최준영）</b> 的 GitHub 主页。
+  <b>Junyoung Choi (최준영 / 崔埈暎)</b>의 GitHub 프로필입니다.<br>
+  这里是 <b>Junyoung Choi（崔埈暎 / 최준영）</b> 的 GitHub 主页。
 </p>
 
 <p align="center">
