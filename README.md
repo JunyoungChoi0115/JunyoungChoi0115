@@ -5,7 +5,26 @@
   这里是 <b>崔埈暎（최준영）</b> 的 GitHub 主页。
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&background=00000000&center=true&vCenter=true&width=600&lines=러시아어와+중국어를+공부하는+대학생;学习俄语和中文的大学生;꾸준함이+결국+큰+결과를+만든다+-+水滴石穿" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B5651D&background=00000000&center=true&vCenter=true&width=600&lines=러시아어와+중국어를+공부하는+대학생;学习俄语和中文的大学生;꾸준함이+결국+큰+결과를+만든다+-+水滴石穿" />
+  </picture>
+</p>
+
 ---
+
+## 📑 목차 / 目录
+
+- [🙋‍♂️ 저는 / 关于我](#about)
+- [🌟 관심사 / 兴趣爱好](#interests)
+- [🎓 전공 / 专业](#major)
+- [🛠️ 사용 언어 / 使用语言](#skills)
+- [📫 연락처 / 联系方式](#contact)
+
+---
+
+<a id="about"></a>
 
 ## 🙋‍♂️ 저는 / 关于我
 
@@ -19,6 +38,8 @@
   喜欢学习新事物并记录下来。
 
 ---
+
+<a id="interests"></a>
 
 ## 🌟 관심사 / 兴趣爱好
 
@@ -41,6 +62,8 @@
 
 ---
 
+<a id="major"></a>
+
 ## 🎓 전공 / 专业
 
 | 구분 (类别) | 전공명 (专业名称) |
@@ -50,11 +73,19 @@
 
 ---
 
+<a id="skills"></a>
+
 ## 🛠️ 사용 언어 / 使用语言
 
-`한국어(韩语)` · `中文(중국어)` · `Русский язык(러시아어)`
+<p align="center">
+  <img src="https://img.shields.io/badge/한국어-韩语-CD2E3A?style=for-the-badge" alt="한국어" />
+  <img src="https://img.shields.io/badge/中文-중국어-DE2910?style=for-the-badge" alt="中文" />
+  <img src="https://img.shields.io/badge/Русский_язык-러시아어-0039A6?style=for-the-badge" alt="Русский язык" />
+</p>
 
 ---
+
+<a id="contact"></a>
 
 ## 📫 연락처 / 联系方式
 
