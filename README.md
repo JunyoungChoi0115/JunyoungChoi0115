@@ -8,8 +8,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&background=00000000&center=true&vCenter=true&width=600&lines=러시아어와+중국어를+공부하는+대학생;学习俄语和中文的大学生;꾸준함이+결국+큰+결과를+만든다+-+水滴石穿" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B5651D&background=00000000&center=true&vCenter=true&width=600&lines=러시아어와+중국어를+공부하는+대학생;学习俄语和中文的大学生;꾸준함이+결국+큰+결과를+만든다+-+水滴石穿" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&background=00000000&center=true&vCenter=true&width=600&lines=%EB%9F%AC%EC%8B%9C%EC%95%84%EC%96%B4%EC%99%80+%EC%A4%91%EA%B5%AD%EC%96%B4%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%8C%80%ED%95%99%EC%83%9D;%E5%AD%A6%E4%B9%A0%E4%BF%84%E8%AF%AD%E5%92%8C%E4%B8%AD%E6%96%87%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F;%EA%BE%B8%EC%A4%80%ED%95%A8%EC%9D%B4+%EA%B2%B0%EA%B5%AD+%ED%81%B0+%EA%B2%B0%EA%B3%BC%EB%A5%BC+%EB%A7%8C%EB%93%A0%EB%8B%A4+-+%E6%B0%B4%E6%BB%B4%E7%9F%B3%E7%A9%BF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B5651D&background=00000000&center=true&vCenter=true&width=600&lines=%EB%9F%AC%EC%8B%9C%EC%95%84%EC%96%B4%EC%99%80+%EC%A4%91%EA%B5%AD%EC%96%B4%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%8C%80%ED%95%99%EC%83%9D;%E5%AD%A6%E4%B9%A0%E4%BF%84%E8%AF%AD%E5%92%8C%E4%B8%AD%E6%96%87%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F;%EA%BE%B8%EC%A4%80%ED%95%A8%EC%9D%B4+%EA%B2%B0%EA%B5%AD+%ED%81%B0+%EA%B2%B0%EA%B3%BC%EB%A5%BC+%EB%A7%8C%EB%93%A0%EB%8B%A4+-+%E6%B0%B4%E6%BB%B4%E7%9F%B3%E7%A9%BF" />
   </picture>
 </p>
 
