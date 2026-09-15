@@ -58,7 +58,6 @@
 
 ## 📫 연락처 / 联系方式
 
-- GitHub: [@사용자명](https://github.com/사용자명)
-- Email: your-email@example.com
+- GitHub: [@motato0406](https://github.com/motato0406)
 
 <p align="center">감사합니다! / 谢谢观看！</p>
