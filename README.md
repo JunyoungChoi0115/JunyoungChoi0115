@@ -79,9 +79,9 @@
 ## 🛠️ 사용 언어 / 使用语言
 
 <p align="center">
-  <img src="https://img.shields.io/badge/한국어-韩语-CD2E3A?style=for-the-badge" alt="한국어" />
-  <img src="https://img.shields.io/badge/中文-중국어-DE2910?style=for-the-badge" alt="中文" />
-  <img src="https://img.shields.io/badge/Русский_язык-러시아어-0039A6?style=for-the-badge" alt="Русский язык" />
+  <img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-%E9%9F%A9%E8%AF%AD-CD2E3A?style=for-the-badge" alt="한국어" />
+  <img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%EC%A4%91%EA%B5%AD%EC%96%B4-DE2910?style=for-the-badge" alt="中文" />
+  <img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%96%B4-0039A6?style=for-the-badge" alt="Русский язык" />
 </p>
 
 ---
